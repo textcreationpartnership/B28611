@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Qveres and coniectvres concerning the present state of this Kingdome</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28611</idno><idno type="EEBO-CITATION">12147215</idno>
+  <idno type="VID">197083</idno>
+  <idno type="EEBO-PROQUEST">2240937706</idno>
+  
+            <idno type="STC">Wing Q165</idno>
+            <idno type="OCLC">12147215</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28611)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197083)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E91, no 21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Qveres and coniectvres concerning the present state of this Kingdome</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Royston,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197083:1"/>
+            <pb facs="tcp:197083:1"/>
+            <p>QVERES AND CONIECTVRES. Concerning the present state of this Kingdome.</p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Richard Royston.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:197083:2"/>
+            <head>Quaere's and Conjectures, concerning the the present state of this Kingdome.</head>
+            <div n="1" type="part">
+               <head>1. QVAERE.</head>
+               <p>
+                  <hi>What issue may probably be expected of these great differences amongst us.</hi>
+               </p>
+               <div type="section">
+                  <head>CONIECTURE.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Here are but three conditions that can possibly befall us; <hi>Accommodation, Victory,</hi> or the <hi>continuance</hi> of these <hi>civill warres.</hi>
+                  </p>
+                  <p>As for Accomodation, there are but slender hopes of that, if a man seriously weighs these particulars.</p>
+                  <p n="1">1. The confidence which both sides have of their owne strength together with their severall successes.</p>
+                  <p n="2">2. The mutuall sufferings, whereby they have exasperated one another.</p>
+                  <p n="3">3. The deep ingagements of both parties, not onely of their for<g ref="char:EOLhyphen"/>tunes, friends, persons, but the tye of an Oath (according to seve<g ref="char:EOLhyphen"/>rall interpretations,) the bond of religion, which of all other doe make men more eager and zealous in their prosecution.</p>
+                  <p n="4">4. The great distance of tearmes on which they stand, each fide expecting that of the other, which according to their owne sup<g ref="char:EOLhyphen"/>positions cannot be imagined possible, <hi>viz.</hi>
+                  </p>
+                  <p n="1">1. That such Delinquentrs should be delivered up, who by their owne acknowledgement are so prevalent, and of such autho<g ref="char:EOLhyphen"/>rity on each side, that they carry all businesses as they themselves please. As if men would consent to their owne ruines.</p>
+                  <p n="2">2. That they may have the chiefe power and places of the King<g ref="char:EOLhyphen"/>dome at their owne disposall, which neither side can enjoy with a<g ref="char:EOLhyphen"/>ny sufficient security to the other.</p>
+                  <p>As for victory, it is not easily conceiveable upon what ground
+<pb n="3" facs="tcp:197083:2"/>any judicious man and lover of his Countrey can rationally de<g ref="char:EOLhyphen"/>sire it; or if he should, yet it seems still as difficult to imagine what grounds he can have to hope for it; The strength of both parties being late more equally poysed then before. Tis commonly gran<g ref="char:EOLhyphen"/>ted, that with his Majesty there are the generality of the Nobility, Gentry, Clergy, throughout the whole Kingdome, and a great part of the people every where, who of late doe fall off from the other side every day more and more; So that if he should perhaps have the worst in one battaile, yet the estates, reputations, abilities, multitudes of those that are ingaged on his side in severall places, (especially considering his dispersed Armies) would be able to re<g ref="char:EOLhyphen"/>paire it againe, and to hold out for a lasting warre. As for supply of moneys, 'tis as easily imaginable, how he should get more, as how he should get so much.</p>
+                  <p>On the Parliaments side, there are, beside some Nobility, Gentry, Clergy, the greatest part of the Communalty, the Corporations, Forts, and Navie. Nor is it without ground suspected, that many of those who fall off from them, doe it to save charges, and for fear of future payments. In which kind when his Majesty shall expect their assistance, they are like to prove as uselesse to him, as they were be<g ref="char:EOLhyphen"/>fore to the Parliament. So that though we should suppose, as many of the people to fall off from this side, as may probably be suspe<g ref="char:EOLhyphen"/>cted, yet those that are cordially ingaged, with such advantages as they are like to keep, will be able to hold out so long in a Civil war, till the whole Kingdome be ruined.</p>
+                  <p>Since therefore there is so little likelyhood either of <hi>Accommoda<g ref="char:EOLhyphen"/>tion</hi> or <hi>Victory,</hi> it must necessarily follow, that the most probable expectation is the continuance of these warres.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>2 QVAERE.</head>
+               <p>
+                  <hi>Where lyes the fault of this unhappy division.</hi>
+               </p>
+               <div type="section">
+                  <head>CONIECTVRE.</head>
+                  <p>SInce both parties do in this difference appeal to every mans judg<g ref="char:EOLhyphen"/>ment, therefore I hope 'tis no great presumption to venture upon the determination of this <hi>Quaere,</hi> and I am sure no extraordinary thing to mistake in it.</p>
+                  <pb n="4" facs="tcp:197083:3"/>
+                  <p n="1">1. Some there are who attribute all to a great designe, which hath been a long time acting amongst us for the introducing of Po<g ref="char:EOLhyphen"/>pery. In the prosecution of which, they conceive all these troubles to be raised: But this others dis-relish as groundlesse, because his Majesty is sufficiently known to be a resolved Protestant, being na<g ref="char:EOLhyphen"/>turally of such a disposition as will strongly adhere unto those prin<g ref="char:EOLhyphen"/>ciples which he hath once embraced.</p>
+                  <p>As for the Bishops (to whose former violences we owe much of our present miseries) though they might perhaps affectionatly in<g ref="char:EOLhyphen"/>cline to popery, in those poynts which seem to promote their owne greatnesse; yet for other things, 'tis likely they did only connive at it in opposition to Puritanes, whom they esteemed their greatest e<g ref="char:EOLhyphen"/>enmies; so that though that religion might consequently by this means have increased and stoln in amongst us; yet 'tis not probable that it was by them directly intended and upon designe.</p>
+                  <p n="2">2 Others there are, who (according as they are severally ingaged) do ascribe the fault of this division to the severall parties of it. The relations of both sides concerning the occasions &amp; passages of this difference being so faire and plausible, that either of them alone were enough to insinuate into the beliefe of any indifferent man.</p>
+                  <p>His Majesty tells us, that at the beginning of this Parliament he did in every thing comply with their advice for the promoting of the publike good, granting unto them so many acts of grace (be<g ref="char:EOLhyphen"/>yond any example of his Progenitors) as might abundantly repaire those oppressions and grievances, under which they have formerly suffered. But when he had such strong reasons to suspect that there was a prevalent Faction amongst them, combin'd together for the utter subversion of government, and that they would make Lawes without his assent, when as first by threats and tumults they had frighted away the major part of both Houses, who were otherwise affected, not without some danger to his owne person; then he was forced to withdraw himselfe, and to provide for his owne person in remoter places.</p>
+                  <p>On the other side, the <hi>Parliament</hi> acknowledge those many good Lawes which they have propounded, and his Majesty hath passed; But withal they say, that there is great reason to suspect, that all these
+<pb n="5" facs="tcp:197083:3"/>acts were but unwillingly assented unto, onely in satisfaction to the exi<g ref="char:EOLhyphen"/>gencie of those times, His Majesties bad Counsellors being still as pre<g ref="char:EOLhyphen"/>valent with him as before, who might afterwards as easily perswade him to the breach of these new act, as they had formerly done to the breach of others: so that all they had done was nothing worth, unlesse there might be some further course taken for the removal of these evill Coun<g ref="char:EOLhyphen"/>sellors, and the setling of the power of the Kingdome in such hands as might preserve the Lawes, and not destroy them: It being very pro<g ref="char:EOLhyphen"/>bable, that those Counsellors, who have now perswaded his Majesty to this opposition of his Parliament, if the <hi>Militia</hi> had been at their dispo<g ref="char:EOLhyphen"/>sall, would themselves have used the power of it, for the suppressing of the Parliament.</p>
+                  <p>Such plausible pretences are there on both sides, that an honest man may very excusably mistake, especially if he understand these thing one<g ref="char:EOLhyphen"/>ly by Relation from others, and be not himselfe an inquisitive looker on upon the severall passages of them.</p>
+                  <p n="3">3. To me it seems the most probable conjecture, that mutuall jealou<g ref="char:EOLhyphen"/>sie did first make this wound, and mutuall bitternesse hath since feste<g ref="char:EOLhyphen"/>red and inlarged it.</p>
+                  <p>Where the truest ground of this jealousie lyes, must be found by ex<g ref="char:EOLhyphen"/>amining the severall parties, whether that change which hath produced our present troubles hath been in the people, or in the Governours. This may seem hard to determine in this particular case, though if a man speake abstractly and in the generall: the truth is, it is not so common nor so likely for people to rise up without cause, as for Governors to oppress without cause. And on the other side, when the people have been much intrenched upon in their properties or liberties, it may probably be expe<g ref="char:EOLhyphen"/>cted, that when they doe shew themselves, they should appeare exaspe<g ref="char:EOLhyphen"/>rated unto a high degree of, feare and impatience.</p>
+                  <p>The bitternesse on both sides hath been occasioned by 1. Violence in opinion. 2. Vnusuall practises.</p>
+                  <p>There are too many on both sides who are so eager and violent in their opinions, as scarce to allow him for an honest man, who is of a dif<g ref="char:EOLhyphen"/>ferent judgement from them, as if it were possible, that there should be so great a difference betwixt men of the same Religion, where per<g ref="char:EOLhyphen"/>sons of Learning and Piety should not bee ingaged on both sides.</p>
+                  <p>Though a man had as good Iudgement and Affections as
+<pb n="6" facs="tcp:197083:4"/>he is capable of, yet still they would be liable to the frailties of hu<g ref="char:EOLhyphen"/>mane nature. Injuries and hard dealing might exasperate him, hopes and preferment might seduce him; conversation, Dependencies, friends, calling, have a great influence upon the mind, and may unawares insinu<g ref="char:EOLhyphen"/>ate strong prejudices. As for the lawfulnesse of being ingaged on either side, I suppose this case hath been so throughly discussed <hi>pro</hi> and <hi>con,</hi> that that it is now grown as endlesse as other controversies, &amp; that men of ho<g ref="char:EOLhyphen"/>nest affections may be on both sides, on both parties. So that for matter of opinion, there should be a liberty granted for every one to goe accor<g ref="char:EOLhyphen"/>ding to his owne evidence.</p>
+                  <p>But for matter of outward practise, as levying taxes upon the estates of others, and the like; it cannot be reasonably expected, but that every one should be forced unto a conformity to that side, under whose power he is. If a man will not willingly contribute, he must look to have it ta<g ref="char:EOLhyphen"/>ken from him; if he will be active in speaking or preaching against them, he must think to be silenced and imprisoned, though in other respects he may be of never so much known honesty and credit, yet he cannot rea<g ref="char:EOLhyphen"/>sonably imagine, that others should prefer his private wayes or opinions before that which to them seems most conducible to the publike wel<g ref="char:EOLhyphen"/>fare. So that such proceedings by either partie (supposing the case un<g ref="char:EOLhyphen"/>decided, and that these proceedings be not made odious by circumstan<g ref="char:EOLhyphen"/>ces) are in themselves excusable upon the grounds of common reason and policy: Which if men would equally consider, it would abate much of that bitternesse and violence on either side.</p>
+               </div>
+            </div>
+            <div n="3" type="part">
+               <head>3. QVAERE.</head>
+               <p>
+                  <hi>What is the best cure and remedy for our distempers.</hi>
+               </p>
+               <div type="section">
+                  <head>CONIECTVRE.</head>
+                  <p>IF mutuall jealousie be the disease, then mutuall confidence must be the cure, which is in his power onely to effect, in whose hands are the hearts of all men.</p>
+                  <p>But for outward applications, the best way of prescribing is to ac<g ref="char:EOLhyphen"/>commodate this difference by some middle way, wherein either party shall remit somewhat of the rigour of those termes on which now they stand. Onely here will be the difficulty, how to frame such an accom<g ref="char:EOLhyphen"/>modation as may by both sides be esteemed safe and honourable. This perhaps would not be so difficult, if it were not for that which seemes
+<pb n="7" facs="tcp:197083:4"/>to make it very easie, I meane that neare relation betwixt King and peo<g ref="char:EOLhyphen"/>ple, whose mutual concernments should be so intwined, that the honour and safety of the one should be so to the other.</p>
+                  <p>But as the case now stands, these two must be considered according to their divided interests: And under this notion the chief enquiry must be (supposing the case undecided) which side may suffer with least preju<g ref="char:EOLhyphen"/>dice to it selfe, and to the publike welfare.</p>
+                  <p>And here to me it seems for matter of power and safety, that there is lesse danger in the Kings yielding too much, than in the Parliaments; for experience tells us, (as hath been often observed) that what the people once lose, is scarce ever recovered again; whereas what the King part<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with, is afterwards by the subtilty of Statists easily regained.</p>
+                  <p>And for matter of honour, it is considerable:</p>
+                  <p n="1">1. That where the fault is least, the dishonour must be least. But now the fault must needs be lesse in his Majestie, who is but one, and may more easily bee deceived by mis-information, than in the Parliament, which being an assembly of so many choyse persons, cannot be so liable to mistakes, and consequeetly are not so excusable for them.</p>
+                  <p n="2">2 It seems necessarie, for the publike welfare, that the honour of that assembly should be preserved most inviolable, and with the greatest cau<g ref="char:EOLhyphen"/>tion, which is so the supream, that from it there can be no appeale: If this once lose its respect, it will presently lose its power: And then the very constitution of this Kingdome is utterly ruined.</p>
+                  <p>But what then (may some say) shal those persons suffer that are decla<g ref="char:EOLhyphen"/>red Delinquents, for being active on the Kings side? I answer, it cannot stand with his Majesties honor to give them wholy over to punishment, nor with the Parlamēts to let them wholy escape. In this difficulty ther<g ref="char:EOLhyphen"/>fore it may perhaps be some satisfaction in the formality of Law, that they should be tried &amp; censured, though they were afterwards pardoned.</p>
+                  <p>If this may seeme too hard and unequall, let it be considered, that 'tis no dishonour to yield to necessity, especially such desperate necessi<g ref="char:EOLhyphen"/>ty, as that whereunto this Kingdome is now reduced.</p>
+               </div>
+            </div>
+            <div n="4" type="part">
+               <head>4. QVAERIE.</head>
+               <p>
+                  <hi>Whether the likely inconveniences of such an Accommodation as may pro<g ref="char:EOLhyphen"/>bably be obtained, be not much to be preferred before those great mischiefe that may accompany victory, or the continuance of these warres?</hi>
+               </p>
+               <div type="section">
+                  <pb n="8" facs="tcp:197083:5"/>
+                  <head>CONIECTURE.</head>
+                  <p>IF the Protestant Religion may be secured, the Doctrine ratified, and the Discipline in some things reformed, for satisfaction to te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>der consciences, as is intended and proffered on both sides. If our Liber<g ref="char:EOLhyphen"/>ties and properties may be ensafed according to those new Acts which have been lately made: then me-thinks men should rather content them<g ref="char:EOLhyphen"/>selves with thus much, than hazard all by further contentions.</p>
+                  <p>The chiefe inconveniences of such an Accommodation would be:</p>
+                  <p n="1">1. <hi>The comming short of so full a Reformation as some men aym at.</hi>
+                  </p>
+                  <p n="2">2. <hi>The countenancing of those persons that have been the chiefe instruments and occasions of these miseries, and the discountenancing of others that have beene active for the publike good.</hi>
+                  </p>
+                  <p>The miseries that may ensue upon a victory (not considering the great charges, difficulty, and uncertainty of it are briefely these. 1. <hi>The effusi<g ref="char:EOLhyphen"/>on of so much bloud as it will cost for the present; besides the mischiefe of a la<g ref="char:EOLhyphen"/>sting and desperate division for the future.</hi> 2. <hi>The extremities and violen<gap reason="illegible" resp="#keyers" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> which further opposition may provoke unto, and such successe encourage.</hi>
+                  </p>
+                  <p>If it be sayd, that 'tis better to be cured by a Fever than to dye of a Lethargy; I answer, tis true where the Fever is a likely cure, and the Lethargie is certaine death, but not when both seem equally mortall, or it may be, the cure more dangerous than the disease.</p>
+                  <p>
+                     <hi>The mischiefes that will befall us upon the continuance of these civill warres will be as many, as pressing, as our owne feares can create, or as our enemies can curse us with. It may deprive us of our arts, learning, our liberties and proper<g ref="char:EOLhyphen"/>ties, our Laws, and (it may be) our Religion too; so that we shall have nothing left us to be preserved. Many of our neighbrurs can by their owne experience, tell us sad stories of the miseries they have suffered by it already: And if the begin<g ref="char:EOLhyphen"/>nings of it are so cruell, what may be expected when it shall more generally rage through the whole Kingdome, producing famine as it needs must, when the hus<g ref="char:EOLhyphen"/>bandman dares not sow, or cannot reap, and consequently all pestilentiall disea<g ref="char:EOLhyphen"/>ses which will follow upon course and unwholsome dyets?</hi>
+                  </p>
+                  <p>Both these particulars have been excellently amplyfied by the Moderator, in whom you may s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> this Quaere strongly and fully resolved. Both sides doe pretend to a defensive war, it will now appeare who have least ground for this pretence by their Aversenesse to Accommodation; since doubtlesse if peace and safety be their chiefe end, it must needs be farre better for them to enjoy this with some inconveniences, than to want it with many more.</p>
+               </div>
+            </div>
+            <trailer>FFNIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
